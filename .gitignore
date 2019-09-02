@@ -1,0 +1,10 @@
+about.html
+src/*
+!src/style.css
+*.zip
+.DS_Store
+*.env
+*.jar
+*.war
+
+# you can write comments
